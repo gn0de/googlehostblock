@@ -1,4 +1,7 @@
 #start
+0.0.0.0 pki.google.com
+0.0.0.0 googlevideo.com
+0.0.0.0 video.google.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google.com
 0.0.0.0 google.ac

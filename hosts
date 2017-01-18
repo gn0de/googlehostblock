@@ -1,4 +1,6 @@
 #start
+0.0.0.0 cello.client-channel.google.com
+0.0.0.0 clients4.google.com
 0.0.0.0 doubleclickbygoogle.com
 0.0.0.0 drive.google.com
 0.0.0.0 groups.google.com
